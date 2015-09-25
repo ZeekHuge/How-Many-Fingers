@@ -9,4 +9,4 @@ To test the package:
 4> Run 
 5> Start playing
 
-The application was built on Xcode5 and was tested on iPhone 3.5 inch retina display emulator.
+The application was built on Xcode5 and was tested on iPhone 3.5 inch retina display simulator.
