@@ -10,3 +10,5 @@ To test the package:
 5> Start playing
 
 The application was built on Xcode5 and was tested on iPhone 3.5 inch retina display simulator.
+
+A demo Video to the application is on https://drive.google.com/open?id=0BwwIRlF3oxJfeDlZZG5sTEJnTDg
